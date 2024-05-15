@@ -1,0 +1,10 @@
+# ninja log v5
+8	403	7170732169874791	untitled_autogen/timestamp	7e423d57a2151abe
+8	403	7170732169874791	untitled_autogen/mocs_compilation.cpp	7e423d57a2151abe
+8	403	7170732169874791	D:/training/QT_Task/build-untitled-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/untitled_autogen/timestamp	7e423d57a2151abe
+8	403	7170732169874791	D:/training/QT_Task/build-untitled-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/untitled_autogen/mocs_compilation.cpp	7e423d57a2151abe
+403	1506	7170732182034504	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	5bc940ecfdce3bad
+408	1644	7170732183374343	CMakeFiles/untitled.dir/main.cpp.obj	72f02d64d8dfff8a
+414	1701	7170732183975635	CMakeFiles/untitled.dir/mainwindow.cpp.obj	183756b1284d7e66
+420	1838	7170732185327113	CMakeFiles/untitled.dir/form.cpp.obj	adc5ebdedb4550de
+1839	2266	7170732189376960	untitled.exe	6fb95a3a401c5c0a
